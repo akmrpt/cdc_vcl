@@ -1,0 +1,2 @@
+SqlConn=Login Prompt=False;Password=12Eg?qb9;Data Source=db.pnc.com.pk;Initial Catalog=db_pnc_com_pk_anc2021;User ID=db_pnc_com_pk_sa
+OraConn=Provider=OraOLEDB.Oracle.1;Password=101171;Persist Security Info=True;User ID=sebo;Data Source=202.143.125.107:1521/odb;Extended Properties=""
